@@ -14,7 +14,7 @@ export const PatientFormDefaultValues = {
   primaryPhysician: "",
   insuranceProvider: "",
   insurancePolicyNumber: "",
-  // allergies: "",
+  allergies: "",
   currentMedication: "",
   familyMedicalHistory: "",
   pastMedicalHistory: "",
